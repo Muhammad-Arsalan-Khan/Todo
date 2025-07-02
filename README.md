@@ -24,3 +24,6 @@ This is a simple Todo application built with **HTML**, **CSS**, and **JavaScript
 5. Your tasks will be saved in the Local Storage, so they persist even after you refresh the page.
 
 ## Code Structure
+|-index.html // Main HTML structure
+|-style.css // Styling for the Todo app
+|-app.js // JavaScript functionality for managing tasks and Local Storage
